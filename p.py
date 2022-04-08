@@ -137,7 +137,7 @@ sns.heatmap(corr,cmap="BuGn")
 # y轴范围
 
 #corr :[73 rows x 73 columns]
-# plt.show()
+plt.show()
 
 
 # 热力图越深色为越强相关
